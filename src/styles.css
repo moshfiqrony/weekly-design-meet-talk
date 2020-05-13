@@ -1,0 +1,143 @@
+.one-1,
+.one-2,
+.one-3 {
+  height: 50px;
+  width: 50px;
+  background: red;
+  margin: 10px;
+  transition: all 1s ease;
+}
+
+.settingsSwitch > .MuiSwitch-track {
+  background: #dddddd !important;
+}
+
+.settingsSwiitch > .MuiSwitch-thumb {
+  background-color: #56c7c0 !important;
+}
+
+.head {
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  /* position: relative; */
+}
+
+.l {
+  width: 50%;
+  font-size: 50px;
+
+  /* max-width: 250px; */
+}
+.r {
+  display: flex;
+  width: 50%;
+  justify-content: flex-end;
+  /* max-width: 250px; */
+  /* position: absolute; */
+  right: 0;
+}
+
+/* .one-1:hover ~ .one-3,
+.one-1:hover ~ .one-2 {
+  background: blue;
+  width: 300px;
+}
+
+.header li,
+.sidebar li:nth-child(even) {
+  color: red;
+}
+
+.design {
+  width: 10px;
+  transition: width 10s ease, height 10s ease;
+}
+
+.design:focus {
+  width: 250px;
+  height: 250px;
+  background: #c9c9c9;
+} */
+
+/* .top-nav-bar {
+  background: #180404;
+}
+
+ul {
+  list-style-type: none;
+  padding: 20px;
+  margin: 0 !important;
+}
+li {
+  display: inline;
+  padding: 10px 20px;
+  color: wheat;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  margin-right: 5px;
+}
+
+li:hover {
+  background: wheat;
+  color: #180404;
+}
+
+ul li a {
+  text-decoration: none;
+  color: wheat;
+}
+
+ul li a :hover {
+  text-decoration: none;
+  color: #180404;
+} */
+
+/* .home {
+  background: #c9c9c9;
+  min-height: calc(100vh - 64px);
+  min-height: 100vh;
+} */
+
+/* .about {
+  background: #aaaaaa;
+}
+.home-left {
+  background: red;
+  width: 70%;
+  float: left;
+}
+.home-right {
+  background: blue;
+  width: 30%;
+  float: right;
+  min-height: calc(100vh - 64px);
+}
+
+.home-left-right {
+  background: orange;
+  max-height: 300px;
+  min-height: calc(100vh / 2 - 32px);
+}
+
+.home-left-left {
+  background: rgb(129, 113, 83);
+  max-height: 300px;
+  min-height: calc(100vh / 2 - 32px);
+}
+
+.card-new {
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.83);
+  width: 50%;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.card-body-new {
+  padding: 20px;
+}
+.card-title-new {
+  padding: 20px;
+} */
